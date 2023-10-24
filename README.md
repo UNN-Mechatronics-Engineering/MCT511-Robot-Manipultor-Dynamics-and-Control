@@ -48,5 +48,5 @@ To bring our 2-DOF robot to life, we model it using Simulink with simscape. We h
 We hope you find the information and resources in this repository valuable as you explore the intriguing world of robot manipulator kinematics and dynamics. Join us in this journey of discovery and innovation!
 
 ## Resources
-[1] Control of Robot Manipulators in Joint Space by R. Kelly, V. Santibanez, and A. Loria
-[2] May 2017 preprint of Modern Robotics, Lynch and Park, Cambridge U. Press, 2017. http://modernrobotics.org
+- Control of Robot Manipulators in Joint Space by R. Kelly, V. Santibanez, and A. Loria
+- May 2017 preprint of Modern Robotics, Lynch and Park, Cambridge U. Press, 2017. http://modernrobotics.org
